@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "docs/Angular-Task-1",
+            "outputPath": "dist/Angular-Task-1",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
